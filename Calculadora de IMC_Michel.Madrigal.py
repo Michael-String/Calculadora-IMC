@@ -1,8 +1,8 @@
 # Proyecto 1: Calculadora de I.M.C.
 # UCamper: Michel Amir Madrigal Torres
 # Bootcamp: Fundamentos de Python
-# Coach: Zurisadai Velazquez
-# Grupo: C3
+# Coach: Gustavo Mota
+# Grupo: C5
 
 while True:
 
